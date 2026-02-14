@@ -12,10 +12,9 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 
 ---
 
-## 🚀 Supported macOS Version
+## 🚀 Supported macOS Versions
 
-* **macOS Sequoia**
-* *Supports from macOS Monterey up to.....*
+- **macOS Monterey → macOS Sequoia** *(depending on which version you choose)*
 
 ---
 
@@ -67,7 +66,9 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 * **@prodbyeternal**
 
 ---
-> [!WARNING]
+> [!CAUTION]
 > This EFI is made for **this exact hardware configuration**.
 > If your ThinkBook differs, you’ll need to adjust the config accordingly.
+> You are downloading a **_PRE-MADE EFI_**. 99% of Hackintosh communities won't help with pre-made EFI's. You are on your own.
 > Also, Ice Lake CPU's suck, never doing Ice Lakes again.
+> Tahoe support is not currently planned.
