@@ -38,8 +38,8 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 | **Keyboard**         | ✅ Yes  |
 | **USB**              | ✅ Yes  |
 | **Battery Status**   | ✅ Yes  |
-| **HDMI**             | ❌ No, won't be supported. |
-| **Touchpad**         | ❌ No, please help   |
+| **HDMI**             | ✅ Partially yes, with Thunderbolt. |
+| **Touchpad**         | ❌ No, help appreciated.   |
 
 
 ---
