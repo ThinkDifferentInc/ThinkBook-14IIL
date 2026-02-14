@@ -4,7 +4,7 @@ OpenCore EFI files for **Lenovo ThinkBook 14 IIL**, built to run **macOS Sequoia
 
 This repository focuses on achieving a stable and usable macOS experience on this specific laptop model. No unnecessary stuff — just what’s needed.
 
-<img width="1920" height="1080" alt="Ventura2" src="https://github.com/user-attachments/assets/5959c44e-815d-47bd-a511-60eb04b4d689" />
+<img width="1920" height="1080" alt="Ventura2" src="https://raw.githubusercontent.com/ThinkDifferentInc/ThinkBook-14IIL/refs/heads/main/Sequoia.png" />
 
 ## Download EFI:
 * macOS Sequoia: https://drive.google.com/drive/folders/1VMz4Yaxe3_fghepef3be9NsOCd2qku6s?usp=sharing
