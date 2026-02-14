@@ -67,8 +67,8 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 
 ---
 > [!CAUTION]
-> This EFI is made for **this exact hardware configuration**.
-> If your ThinkBook differs, you’ll need to adjust the config accordingly.
-> You are downloading a **_PRE-MADE EFI_**. 99% of Hackintosh communities won't help with pre-made EFI's. You are on your own.
-> Also, Ice Lake CPU's suck, never doing Ice Lakes again.
+> This EFI is made for **this exact hardware configuration**.<br>
+> If your ThinkBook differs, you’ll need to adjust the config accordingly.<br>
+> You are downloading a **_PRE-MADE EFI_**. 99% of Hackintosh communities won't help with pre-made EFI's. You are on your own.<br>
+> Also, Ice Lake CPU's suck, never doing Ice Lakes again.<br>
 > Tahoe support is not currently planned.
