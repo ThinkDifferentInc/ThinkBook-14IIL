@@ -7,8 +7,8 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 <img width="1920" height="1080" alt="Ventura2" src="https://github.com/user-attachments/assets/5959c44e-815d-47bd-a511-60eb04b4d689" />
 
 ## Download EFI:
-* **macOS Sequoia: https://drive.google.com/drive/folders/1VMz4Yaxe3_fghepef3be9NsOCd2qku6s?usp=sharing
-* **macOS Ventura: https://drive.google.com/drive/folders/1WuMxAMflbLl8MsAcO1EEp1bnmMXVatbr?usp=sharing
+* macOS Sequoia: https://drive.google.com/drive/folders/1VMz4Yaxe3_fghepef3be9NsOCd2qku6s?usp=sharing
+* macOS Ventura: https://drive.google.com/drive/folders/1WuMxAMflbLl8MsAcO1EEp1bnmMXVatbr?usp=sharing
 
 ---
 
