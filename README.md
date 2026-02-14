@@ -62,8 +62,8 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 
 ## 👥 Credits
 
-* **@devbyreqqel**
-* **@prodbyeternal**
+* **@devbyreqqel** (Initial plan, Sequoia development)
+* **@prodbyeternal** (Ventura development, Contributor)
 
 ---
 > [!CAUTION]
