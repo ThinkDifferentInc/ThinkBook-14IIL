@@ -49,7 +49,7 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 > Or you can use the included itlwmPass.py Wi-Fi injector to edit the kext for you. (Works on Windows, Linux)
 
 > [!TIP]
-> If you want a HDMI connection, you will have to buy a USB3.0 to HDMI adapter with macOS Driver support.
+> If you want a working HDMI connection, you will have to buy a USB3.0 to HDMI adapter with macOS support.
 
 
 ---
