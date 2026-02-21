@@ -38,7 +38,7 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 | **Keyboard**         | ✅ Yes  |
 | **USB**              | ✅ Yes  |
 | **Battery Status**   | ✅ Yes  |
-| **HDMI**             | ✅ Partially yes, with Thunderbolt. |
+| **HDMI**             | ✅ Partially yes, with an adapter. |
 | **Touchpad**         | ❌ No, help appreciated.   |
 
 
