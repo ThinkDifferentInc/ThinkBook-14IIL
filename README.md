@@ -1,20 +1,21 @@
 # 💻 ThinkBook 14 IIL – OpenCore EFI
 
-OpenCore EFI files for **Lenovo ThinkBook 14 IIL**, built to run **macOS Sequoia (15)** 🍎
+OpenCore EFI files for **Lenovo ThinkBook 14 IIL**, built to run **Tahoe 23.3** 🍎
 
 This repository focuses on achieving a stable and usable macOS experience on this specific laptop model. No unnecessary stuff — just what’s needed.
 
-<img width="1920" height="1080" alt="Ventura2" src="https://raw.githubusercontent.com/ThinkDifferentInc/ThinkBook-14IIL/refs/heads/main/Sequoia.png" />
+<img width="1920" height="1080" alt="Ventura2" src="https://raw.githubusercontent.com/ThinkDifferentInc/ThinkBook-14IIL/refs/heads/main/tahoe.png" />
 
 ## Download EFI:
 * macOS Sequoia: https://drive.google.com/drive/folders/1VMz4Yaxe3_fghepef3be9NsOCd2qku6s?usp=sharing
 * macOS Ventura: https://drive.google.com/drive/folders/1WuMxAMflbLl8MsAcO1EEp1bnmMXVatbr?usp=sharing
+* macOS Tahoe (buggy): In repo downloads.
 
 ---
 
 ## 🚀 Supported macOS Versions
 
-- **macOS Monterey → macOS Sequoia** *(depending on which version you choose)*
+- **macOS Monterey → macOS Tahoe** *(depending on which version you choose)*
 
 ---
 
@@ -39,6 +40,7 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 | **USB**              | ✅ Yes  |
 | **Battery Status**   | ✅ Yes  |
 | **HDMI**             | ✅ Partially yes, with an adapter. |
+| **Audio**            | ✅ Yes, but check MyKextInstaller
 | **Touchpad**         | ❌ No, help appreciated.   |
 
 
@@ -71,4 +73,4 @@ This repository focuses on achieving a stable and usable macOS experience on thi
 > If your ThinkBook differs, you’ll need to adjust the config accordingly.<br>
 > You are downloading a **_PRE-MADE EFI_**. 99% of Hackintosh communities won't help with pre-made EFI's. You are on your own.<br>
 > Also, Ice Lake CPU's suck, never doing Ice Lakes again.<br>
-> Tahoe support is not currently planned.
+> Tahoe sucks, its very very buggy...
