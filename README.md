@@ -1,6 +1,6 @@
 # 💻 ThinkBook 14 IIL – OpenCore EFI
 
-OpenCore EFI files for **Lenovo ThinkBook 14 IIL**, built to run **Tahoe 23.3** 🍎
+OpenCore EFI files for **Lenovo ThinkBook 14 IIL**, built to run **Tahoe 26.3** 🍎
 
 This repository focuses on achieving a stable and usable macOS experience on this specific laptop model. No unnecessary stuff — just what’s needed.
 
